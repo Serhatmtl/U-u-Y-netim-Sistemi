@@ -1,2 +1,2 @@
-# U-u-Y-netim-Sistemi
+# Havayolu yonetim-Sistemi
 Uçuş Yönetim Sistemi
